@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "GITHub_CI_CD (VAR) [KSITraining]", "GITHub_CI_CD\GITHub_CI_CD.rnrproj", "{E349CA9E-C8F0-4F9F-A634-22A135F1599E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E349CA9E-C8F0-4F9F-A634-22A135F1599E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E349CA9E-C8F0-4F9F-A634-22A135F1599E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15AFA3DA-9713-432D-8A46-C305AC4E8BC4}
+	EndGlobalSection
+EndGlobal
